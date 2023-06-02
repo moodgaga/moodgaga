@@ -5,5 +5,4 @@
 
 <b>lordnosok</b>
 
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/396200163317776387)](https://discord.com/users/396200163317776387)
