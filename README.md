@@ -7,5 +7,5 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/396200163317776387)](https://discord.com/users/396200163317776387)
 
-<b>best site ever</b>
+<b>лучш сайт чек пж</b> \
 https://moodgaga.site
