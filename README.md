@@ -9,3 +9,5 @@
 
 <b>лучш сайт чек пж</b> \
 https://moodgaga.site
+
+<img src='https://github.com/moodgaga/moodgaga/blob/output/github-contribution-grid-snake-dark.svg'>
