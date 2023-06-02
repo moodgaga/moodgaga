@@ -6,3 +6,6 @@
 <b>мой дс</b>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/396200163317776387)](https://discord.com/users/396200163317776387)
+
+<b>best site ever</b>
+https://moodgaga.site
