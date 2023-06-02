@@ -8,6 +8,6 @@
 <a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://spotifinder-dpd0q3pyx-moodgaga.vercel.app/api?spin=true&theme=dark&scan=true" alt="Current Spotify Song">
 </a>
-https://github.com/moodgaga/iconci/blob/main/iconci/HTML.svg
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/396200163317776387)](https://discord.com/users/396200163317776387)
