@@ -8,3 +8,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/396200163317776387)](https://discord.com/users/396200163317776387)
 
 <img src='https://github.com/moodgaga/moodgaga/blob/output/github-contribution-grid-snake-dark.svg'>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moodgaga)](https://github.com/anuraghazra/github-readme-stats)
