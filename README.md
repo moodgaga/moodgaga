@@ -10,4 +10,4 @@
 <img src='https://github.com/moodgaga/moodgaga/blob/output/github-contribution-grid-snake-dark.svg'>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moodgaga&show_icons=true&theme=dark&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moodgaga&show_icons=true&theme=dark&bg_color=00000001)
